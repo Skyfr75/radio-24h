@@ -1,0 +1,17 @@
+{
+  "_comment": "Token can be found in Developer Portal, Same as the ApplicationID.",
+  "token": "Paste your Bot Token from Developer Portal here", 
+    
+  "bot_name": "Paste your bot name here",
+
+  "channelid": "Paste your ChannelID from your Discord Server here",
+  "applicationid": "Paste your ApplicationID from Developer Portal here",
+  "guildid": "Paste your GuildID from your Discord Server here",
+
+  "name":"server.nekroplex.com",
+  "host":"server.nekroplex.com", 
+  "password":"youshallnotpass",
+  "port": 2333,
+
+  "loop_after_finish": true
+}
